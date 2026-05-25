@@ -167,14 +167,6 @@ export const techStack = [
     border: "#bfdbfe",
   },
   {
-    name: "Docker",
-    description: "Containerization",
-    icon: SiDocker,
-    color: "#2496ed",
-    bg: "#eff6ff",
-    border: "#bfdbfe",
-  },
-  {
     name: "Git & GitHub",
     description: "Version control",
     icon: SiGithub,
